@@ -1,20 +1,32 @@
-Software Engineer
------------------
+# 🚀 Igor Wnek
 
-Passionate, with more than eight years of commercial experience. Most of it spent on development, learning to write
-clean code, architecture and good practices in software development. Currently, I'm embarking on an exciting journey as
-a teacher and creator in the digital world, eager to share my knowledge and explore a multitude of innovative ideas.
-Stay tuned for what's to come!
 
-* 🌍 I'm based in Poland
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
+
+**`Digital Craftsman & Educator`**
+
+Passionate Software Engineer with over eight years of commercial experience, dedicated to the art of app development and the pursuit of software craftsmanship. My journey has been defined by a relentless commitment to clean code, robust architecture, and best practices in software development. Now, I'm venturing into the realm of digital education and creation, eager to share my knowledge and explore innovative ideas through my [IKcode Igor Wnek](https://www.youtube.com/channel/UCcDvJJBiUbqKjdezkLkjtyQ) YouTube channel. Join me as we unlock the potential of technology together.
+<br />
+Stay tuned for what's to come, and don't forget to check out my YouTube channel for a deeper dive into the world of coding and software craftsmanship!
+
+* 🌍 I'm based in Poland 🇵🇱
 * ✉️ You can contact me at [contact@ikcode.dev](mailto:contact@ikcode.dev)
 * 🧠 Languages I learn or master: JavaScript, TypeScript, Rust
 * 🧠 My other software related interests: serverless, 🧩 microservices, 🧪 TDD, 🏗️ DDD, 🤖 AI & LLMs
 
+
 <p>
-    <a href="https://www.github.com/IgorWnek" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/IgorWnek?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" alt="GitHub followers count" /></a>
-    <a href="https://www.x.com/igor_ikcode" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/igor_ikcode?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917" alt="X followers count" /></a>
+  <a href="https://www.youtube.com/@IKcodeIgorWnek?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCcDvJJBiUbqKjdezkLkjtyQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+  <a href="https://www.youtube.com/@IKcodeIgorWnek">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCcDvJJBiUbqKjdezkLkjtyQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/IgorWnek?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IgorWnek?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/IgorWnek?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IgorWnek?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
+
+---
 
 ### Skills
 
@@ -44,12 +56,10 @@ Stay tuned for what's to come!
     <a href="https://www.instagram.com/ikcode_igorwnek" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a>
     <a href="https://www.linkedin.com/in/ikcode-igor-wnek/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
     <a href="https://www.medium.com/@igor_wnek" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a>
-    <a href="https://www.stackoverflow.com/users/5524559/igor-w" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a>
     <a href="https://www.x.com/igor_ikcode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
     <a href="https://www.youtube.com/@IKcodeIgorWnek" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a>
 </p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
