@@ -12,7 +12,7 @@ Stay tuned for what's to come, and don't forget to check out my YouTube channel 
 * 🌍 I'm based in Poland 🇵🇱
 * ✉️ You can contact me at [contact@ikcode.dev](mailto:contact@ikcode.dev)
 * 🧠 Languages I learn or master: JavaScript, TypeScript, Rust
-* 🧠 My other software related interests: serverless, 🧩 microservices, 🧪 TDD, 🏗️ DDD, 🤖 AI & LLMs
+* ⚡ My other software related interests: serverless, 🧩 microservices, 🧪 TDD, 🏗️ DDD, 🤖 AI & LLMs
 
 
 <p>
