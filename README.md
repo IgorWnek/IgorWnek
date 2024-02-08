@@ -14,6 +14,7 @@ Stay tuned for what's to come, and don't forget to check out my YouTube channel 
 * ⚡ My other software related interests: serverless, 🧩 microservices, 🧪 TDD, 🏗️ DDD, 🤖 AI & LLMs
 
 <br />
+
 <p>
   <a href="https://www.youtube.com/@IKcodeIgorWnek?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCcDvJJBiUbqKjdezkLkjtyQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
@@ -47,7 +48,9 @@ Stay tuned for what's to come, and don't forget to check out my YouTube channel 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
+<br />
 
+---
 
 ### Socials
 
@@ -59,7 +62,7 @@ Stay tuned for what's to come, and don't forget to check out my YouTube channel 
     <a href="https://www.x.com/igor_ikcode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
     <a href="https://www.youtube.com/@IKcodeIgorWnek" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a>
 </p>
-
+<br />
 
 <b>My GitHub Stats</b>
 
