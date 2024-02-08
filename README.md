@@ -1,5 +1,7 @@
 # 🚀 Igor Wnek
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
+
 **`Digital Craftsman & Educator`**
 
 Passionate Software Engineer with over eight years of commercial experience, dedicated to the art of app development and the pursuit of software craftsmanship. My journey has been defined by a relentless commitment to clean code, robust architecture, and best practices in software development. Now, I'm venturing into the realm of digital education and creation, eager to share my knowledge and explore innovative ideas through my [IKcode Igor Wnek](https://www.youtube.com/channel/UCcDvJJBiUbqKjdezkLkjtyQ) YouTube channel. Join me as we unlock the potential of technology together.
