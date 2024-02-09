@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: BLOG-POSTS
-          feed_list: "https://medium.com/@igor_wnek"
+          feed_list: "https://medium.com/feed/@igor_wnek"
