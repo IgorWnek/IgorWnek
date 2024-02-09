@@ -83,3 +83,7 @@ Stay tuned for what's to come, and don't forget to check out my YouTube channel 
 
 <a href="http://www.github.com/IgorWnek"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorWnek&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+### My Feed
+
+<!-- BEGIN BLOG-POSTS -->
+<!-- END BLOG-POSTS -->
