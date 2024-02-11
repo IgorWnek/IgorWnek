@@ -85,5 +85,5 @@ Stay tuned for what's to come, and don't forget to check out my YouTube channel 
 
 ### My Feed
 
-<!-- BEGIN BLOG-POSTS -->
-<!-- END BLOG-POSTS -->
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
