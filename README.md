@@ -62,6 +62,13 @@ Stay tuned for what's to come, and don't forget to check out my YouTube channel 
 </p>
 <br />
 
+### Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+<br />
+
 ---
 
 <b>My GitHub Stats</b>
