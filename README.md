@@ -69,6 +69,11 @@ Stay tuned for what's to come, and don't forget to check out my YouTube channel 
 
 <br />
 
+### My Posts
+
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
+
 ---
 
 <b>My GitHub Stats</b>
