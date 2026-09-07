@@ -79,12 +79,3 @@ If a video shows a config, the repo is linked under it.
 [![Claude Opus 4.5 is HERE in GitHub Copilot Agent Mode – Massive Upgrade for Devs!](https://ytcards.demolab.com/?id=mP9WDVYdUnc&title=Claude+Opus+4.5+is+HERE+in+GitHub+Copilot+Agent+Mode+%E2%80%93+Massive+Upgrade+for+Devs%21&lang=en&timestamp=1764349620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=507 "Claude Opus 4.5 is HERE in GitHub Copilot Agent Mode – Massive Upgrade for Devs!")](https://www.youtube.com/watch?v=mP9WDVYdUnc)
 [![5 Copilot Prompts That Make Programming Easier (Step-by-Step)](https://ytcards.demolab.com/?id=zi1OcDmRqi8&title=5+Copilot+Prompts+That+Make+Programming+Easier+%28Step-by-Step%29&lang=en&timestamp=1764169326&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1619 "5 Copilot Prompts That Make Programming Easier (Step-by-Step)")](https://www.youtube.com/watch?v=zi1OcDmRqi8)
 <!-- END YOUTUBE-CARDS -->
-
-<!--
-Latest Blog Posts — hidden while theultimate.dev launches its first cross-posted piece.
-Re-enable when there's current writing to surface.
-
-<!-- BLOG-POSTS:START -->
-- [Secret About Making Constant Progress](https://medium.com/@igor_wnek/secret-about-making-constant-progress-44c04b4dfa72?source=rss-158e4340aa51------2)
-<!-- BLOG-POSTS:END -->
--->
